@@ -103,6 +103,9 @@ function AEncodingConvertFromTo(const AInput: RawByteString; out AOutput: RawByt
 begin
   AOutput:= AInput;
 
+  if AInput='' then
+    exit(true);
+
   if AEncInput=AEncOutput then
     exit(true);
 
