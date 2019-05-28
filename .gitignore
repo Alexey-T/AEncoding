@@ -1,2 +1,4 @@
 lib/
+*.lps
 *.exe
+project1
