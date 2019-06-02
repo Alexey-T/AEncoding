@@ -57,6 +57,7 @@ const
   aeid_CP905 = 20905;
   aeid_JOHAB = 1361;
   aeid_CP930 = 50930;
+  aeid_CP932 = 932;
   aeid_CP933 = 50933;
   aeid_CP935 = 50935;
   aeid_CP937 = 50937;
